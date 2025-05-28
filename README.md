@@ -44,15 +44,6 @@ Note: Raw gene expression matrix and SPAM.csv dataset used for classification ar
 - **SVM classifier** achieved **AUC = 0.92** with strong generalization on test data
 
 
-## Files Included
-
-- `stat437Proj1.Rmd` – Unsupervised analysis (EDA + Clustering)
-- `stat437Proj2.Rmd` – Supervised classification models
-- `Project1_Report.pdf` – PDF report of Part 1
-- `Project2_Report.pdf` – PDF report of Part 2
-- `SPAM.csv` – Clean dataset used for model training
-
-
 ## Key Learnings
 
 This project improved my ability to:
