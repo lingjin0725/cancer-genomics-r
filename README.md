@@ -2,13 +2,11 @@
 
 This project was completed as part of STAT 437: High Dimensional Data Learning. It explores large-scale gene expression data from the TCGA Pan-Cancer HiSeq dataset and applies statistical and machine learning methods to identify and classify cancer subtypes.
 
----
 
 ## Project Overview
 
 The dataset consists of 801 patient samples with expression levels for over 20,000 genes. This high-dimensional structure (p ≫ n) presents both computational and analytical challenges, which are addressed through dimensionality reduction, clustering, and classification models.
 
----
 
 ## Objectives
 
@@ -17,7 +15,6 @@ The dataset consists of 801 patient samples with expression levels for over 20,0
 - Apply supervised learning models (logistic regression, kNN, SVM) to classify samples
 - Evaluate model performance using AUC and confusion matrix
 
----
 
 ## Dataset
 
@@ -27,7 +24,6 @@ The dataset consists of 801 patient samples with expression levels for over 20,0
 
 Note: Raw gene expression matrix and SPAM.csv dataset used for classification are provided in the repository.
 
----
 
 ## Methods & Tools
 
@@ -40,7 +36,6 @@ Note: Raw gene expression matrix and SPAM.csv dataset used for classification ar
 | `e1071`      | SVM implementation |
 | `RMarkdown`  | Reproducible documentation |
 
----
 
 ## Key Results
 
@@ -48,7 +43,6 @@ Note: Raw gene expression matrix and SPAM.csv dataset used for classification ar
 - **Gap Statistic & Elbow Method** indicated 2–3 optimal clusters
 - **SVM classifier** achieved **AUC = 0.92** with strong generalization on test data
 
----
 
 ## Files Included
 
@@ -58,7 +52,6 @@ Note: Raw gene expression matrix and SPAM.csv dataset used for classification ar
 - `Project2_Report.pdf` – PDF report of Part 2
 - `SPAM.csv` – Clean dataset used for model training
 
----
 
 ## Key Learnings
 
@@ -69,7 +62,6 @@ This project improved my ability to:
 - Interpret unsupervised and supervised ML results
 - Communicate insights effectively using visualizations
 
----
 
 ## 🔗 License
 
